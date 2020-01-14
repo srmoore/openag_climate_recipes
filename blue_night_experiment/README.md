@@ -1,0 +1,1 @@
+This is an experiment to test growing tomatoes (or other plants that want a day/night cycle) using only Blue light for the night cycle. This means that both plants will get no IR light at night, simulating nighttime, but the plant growing with the 'blue_night' version will recieve extra engery during that 12 hour period.
