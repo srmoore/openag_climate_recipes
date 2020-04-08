@@ -7,7 +7,7 @@
 	"parent_recipe_uuid": null,
 	"support_recipe_uuids": null,
 	"description": {
-		"brief": "Sun light on a 12 hour photoperiod with blue nights.",
+		"brief": "Sun light on a 12 hour photoperiod.",
 		"verbose": "Sun light on a 12 hour photoperiod."
 	},
 	"authors": [
